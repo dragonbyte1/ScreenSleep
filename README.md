@@ -11,7 +11,7 @@ And deactivation by putting those small items away from the sensor.
 Practical and very simple.
 
 
-> Notes:
+### Notes
 - This app is available for Android only
 - It needs a cellphone with proximity sensor to work
 - Proximity sensors are generally located on the top center of the phone, in the top speaker area
